@@ -86,6 +86,17 @@
         opacity: 2;
         width: 105%;
     }
+
+    .galeriaIndex{
+        width: 50%;
+        border-style: dotted;
+        border-color: rgb(172, 97, 0);
+        display: inline-block;
+        margin: 10px;
+        padding: 30px;
+        justify-content: center;
+    }
+
     
     /* imagenes de contacto (redes sociales)*/
     .redSocial{       
